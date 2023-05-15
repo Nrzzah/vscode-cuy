@@ -20,6 +20,31 @@ nav img {
     height: 200%;
     z-index: 2;
 }
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    z-index: 99;
+    position: fixed;
+    background-color: white;
+    top: 44px;
+    width: 100px;
+    transform: translateX(-100%);
+    transition-duration: 50ms;
+}
+
+@media (min-width: 360px) {
+ .menu {
+    display: flex;
+    juhhvh
+ }
+ .menu-tigger {
+    display: none;
+ }
+}
+    
+
 nav .menu > a{
     padding: 0 8px;
     height: 100%;
