@@ -1,9 +1,14 @@
 body {
     margin: 0;
 }
-button {background-color: transparent;
+button {
+background-color: transparent;
 border: black;
 width: 44px;
 height: 44px;
 }
-button:hover
+
+button:hover {
+    border: solid;
+    cursor: pointer;
+}

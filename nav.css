@@ -36,8 +36,12 @@ nav img {
 
 @media (min-width: 360px) {
  .menu {
+    transform: translateX(0) !important;
     display: flex;
-    juhhvh
+    position: static;
+    flex-direction: row;
+    background-color: inherit;
+    width: auto;
  }
  .menu-tigger {
     display: none;
@@ -50,5 +54,6 @@ nav .menu > a{
     height: 100%;
     display: flex;
     align-items: center;
+    text-decoration: none;
     color: black;
 }
