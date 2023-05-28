@@ -3,102 +3,102 @@ const contentData =
     "id": 1,
     "Judul": "Darren",
     "caption": "Steeden",
-    "image": "http://dummyimage.com/192x100.png/dddddd/000000"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/12/Puro-Clinic_Tri-Laser.jpeg"
   }, {
     "id": 2,
     "Judul": "Felisha",
     "caption": "Zanini",
-    "image": "http://dummyimage.com/188x100.png/ff4444/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-08.jpg"
   }, {
     "id": 3,
     "Judul": "Amalle",
     "caption": "Kofax",
-    "image": "http://dummyimage.com/148x100.png/cc0000/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-03.jpg"
   }, {
     "id": 4,
     "Judul": "Rochette",
     "caption": "Braune",
-    "image": "http://dummyimage.com/245x100.png/cc0000/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-16.jpg"
   }, {
     "id": 5,
     "Judul": "Atlanta",
     "caption": "Franken",
-    "image": "http://dummyimage.com/146x100.png/5fa2dd/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-15.jpg"
   }, {
     "id": 6,
     "Judul": "Roman",
     "caption": "Keslake",
-    "image": "http://dummyimage.com/213x100.png/5fa2dd/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-02.jpg"
   }, {
     "id": 7,
     "Judul": "Lazaro",
     "caption": "Conneau",
-    "image": "http://dummyimage.com/127x100.png/5fa2dd/ffffff"
+    "image": "https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-11.jpg"
   }, {
     "id": 8,
     "Judul": "Selby",
     "caption": "Ecob",
-    "image": "http://dummyimage.com/217x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-07.jpg"
   }, {
     "id": 9,
     "Judul": "Yance",
     "caption": "Stodart",
-    "image": "http://dummyimage.com/174x100.png/ff4444/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1000,h_640/https://puroclinic.co.id/wp-content/uploads/2021/06/Puro-Clinic-Clarity-Laser.jpg"
   }, {
     "id": 10,
     "Judul": "Tansy",
     "caption": "Malone",
-    "image": "http://dummyimage.com/249x100.png/ff4444/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-13.jpg"
   }, {
     "id": 11,
     "Judul": "Free",
     "caption": "Lortz",
-    "image": "http://dummyimage.com/152x100.png/ff4444/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-24.jpg"
   }, {
     "id": 12,
     "Judul": "Garrick",
     "caption": "Corsan",
-    "image": "http://dummyimage.com/114x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200,h_768/https://puroclinic.co.id/wp-content/uploads/2021/06/Puro-Clinic-Anti-Wrinkle.jpg"
   }, {
     "id": 13,
     "Judul": "Perry",
     "caption": "Bulger",
-    "image": "http://dummyimage.com/152x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-14.jpg"
   }, {
     "id": 14,
     "Judul": "Thomasine",
     "caption": "Ohrtmann",
-    "image": "http://dummyimage.com/198x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1000,h_640/https://puroclinic.co.id/wp-content/uploads/2021/12/Puro-Clinic_Acne-Injection.jpeg"
   }, {
     "id": 15,
     "Judul": "Kassie",
     "caption": "McCracken",
-    "image": "http://dummyimage.com/103x100.png/ff4444/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-27-1.jpg"
   }, {
     "id": 16,
     "Judul": "Ritchie",
     "caption": "Collibear",
-    "image": "http://dummyimage.com/248x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-27-4.jpg"
   }, {
     "id": 17,
     "Judul": "Andy",
     "caption": "Ojeda",
-    "image": "http://dummyimage.com/153x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200,h_768/https://puroclinic.co.id/wp-content/uploads/2021/06/Puro-Clinic-Filler.jpg"
   }, {
     "id": 18,
     "Judul": "Elisa",
     "caption": "Ricarde",
-    "image": "http://dummyimage.com/227x100.png/dddddd/000000"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-27-7.jpg"
   }, {
     "id": 19,
     "Judul": "Cecilius",
     "caption": "Kiddle",
-    "image": "http://dummyimage.com/174x100.png/cc0000/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-30.jpg"
   }, {
     "id": 20,
     "Judul": "Hermon",
     "caption": "Coleford",
-    "image": "http://dummyimage.com/223x100.png/ff4444/ffffff"
+    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_480/https://puroclinic.co.id/wp-content/uploads/2021/06/Our-Treatments-27-9.jpg"
   }]
 
 console.log(contentData)
